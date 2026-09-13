@@ -56,6 +56,11 @@ The player has **3 lives**.
 Unity Play:
 **[Add Unity Play Link Here]**
 
+## Game Screenshots
+
+<p>
+  <img src="https://github.com/Ishani-Anuruddhika/Endless-Runner-Game/blob/main/Screenshot%20(8).png" width="45%" height="352" style="object-fit: cover;"/>
+  <img src="https://github.com/Ishani-Anuruddhika/Endless-Runner-Game/blob/main/Screenshot%20(9).png" width="45%" height="352" style="object-fit: cover;" />
+</p>
 
 
-Developed as part of the Game Developer Internship Technical & Creative Assessment.
